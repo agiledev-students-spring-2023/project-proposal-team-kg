@@ -6,7 +6,7 @@ Sports Buddy
 
 ### What and why?
 
-For many people who enjoy playing a sport as a hobby, finding a team or someone else to play with can often times be a struggle. Your friends may be interested in playing with you but have time conflicts or a vastly different skill level. Sports Buddy solves this problem by giving users the opportunity to find other people with similar time availability, age, location, and skill level to play with. 
+For many people who enjoy playing a sport as a hobby, finding a team or someone else to play with can often times be a struggle. Your friends may be interested in playing with you, but have time conflicts or possess a vastly different skill level. Sports Buddy solves this problem by giving users the opportunity to find other people with similar time availability, age, location, and skill level to play with. 
 
 
 ### For whom?
